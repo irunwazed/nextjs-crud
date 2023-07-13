@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Gelas2",
+      "price": 5000
+    },
+    {
+      "name": "meja",
+      "price": 21000,
+      "id": 6
+    },
+    {
+      "name": "halo",
+      "price": "2134324",
+      "id": 7
+    }
+  ]
+}
